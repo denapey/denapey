@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denapey
-- 👀 I’m interested in programming,
+- 👀 I’m interested in programming, drupal developer
 - 📫 How to reach me email -> denaramdani@gmail.com
 - Bandung, Indonesia
 
